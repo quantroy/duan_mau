@@ -1,0 +1,58 @@
+.nav-link {
+  font-weight: bold;
+  font-size: large;
+}
+.navbar-nav .nav-item .nav-link {
+  color: black;
+}
+.navbar-nav .nav-item .nav-link:hover {
+  color: rgb(117, 115, 115);
+}
+/*End Menu */
+
+.carousel-control-next:hover,
+.carousel-control-prev:hover {
+  transition: all 0.2s linear;
+  background-color: rgba(56, 52, 52, 0.3);
+}
+/* End slide */
+
+.boxDangKy {
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+.boxDangKy h4 {
+  border-bottom: 2px solid rgb(247, 124, 124);
+}
+/*End boxDangKy */
+
+.boxDanhMuc {
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  margin-top: 84px;
+}
+.boxDanhMuc h4 {
+  border-bottom: 2px solid rgb(247, 124, 124);
+  padding: 5px 10px;
+}
+/* End boxDanhMuc */
+
+.boxTop10 {
+  border: 1px solid #aaa;
+  border-radius: 5px;
+}
+.boxTop10 h4 {
+  border-bottom: 2px solid rgb(247, 124, 124);
+  padding: 5px 10px;
+}
+/* End box top 10 */
+/* End Trang chủ */
+
+.xemthem {
+  position: absolute;
+  bottom: 15px;
+  right: 22px;
+  left: 22px;
+  /* width: auto; */
+}
